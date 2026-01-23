@@ -10,3 +10,4 @@ Commit Log:
 -----------
 
 [2026-01-23] Add microphone capture for hands-free input
+[2026-01-23] Improve the speech-to-text transcription flow
