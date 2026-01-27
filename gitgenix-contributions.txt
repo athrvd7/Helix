@@ -15,3 +15,4 @@ Commit Log:
 [2026-01-23] Handle microphone permission errors clearly
 [2026-01-23] Insert transcripts into the active application
 [2026-01-23] Preserve punctuation in dictated text
+[2026-01-27] Add recording state feedback
