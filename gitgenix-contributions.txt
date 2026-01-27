@@ -21,3 +21,4 @@ Commit Log:
 [2026-01-27] Retry failed transcription requests
 [2026-01-27] Refine the desktop recording overlay
 [2026-01-27] Improve startup performance for background capture
+[2026-01-27] Add language selection for dictation
