@@ -28,3 +28,4 @@ Commit Log:
 [2026-01-29] Add shortcuts for editing the latest transcript
 [2026-02-02] Improve first-run voice setup
 [2026-02-02] Add accessible labels to recording controls
+[2026-02-02] Stabilize longer dictation sessions
