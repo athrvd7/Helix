@@ -37,3 +37,4 @@ Commit Log:
 [2026-02-09] Handle focus changes during dictation
 [2026-02-10] Improve capitalization and sentence formatting
 [2026-02-10] Polish the hands-free writing workflow
+[2026-02-10] Improve hotkey responsiveness
