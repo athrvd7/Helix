@@ -38,3 +38,4 @@ Commit Log:
 [2026-02-10] Improve capitalization and sentence formatting
 [2026-02-10] Polish the hands-free writing workflow
 [2026-02-10] Improve hotkey responsiveness
+[2026-02-12] Initialize the voice-first writing workspace
