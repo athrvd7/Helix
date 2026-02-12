@@ -42,3 +42,4 @@ Commit Log:
 [2026-02-12] Add microphone capture for hands-free input
 [2026-02-12] Improve the speech-to-text transcription flow
 [2026-02-12] Add a push-to-talk keyboard shortcut
+[2026-02-12] Handle microphone permission errors clearly
