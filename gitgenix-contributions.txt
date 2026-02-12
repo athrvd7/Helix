@@ -43,3 +43,4 @@ Commit Log:
 [2026-02-12] Improve the speech-to-text transcription flow
 [2026-02-12] Add a push-to-talk keyboard shortcut
 [2026-02-12] Handle microphone permission errors clearly
+[2026-02-12] Insert transcripts into the active application
