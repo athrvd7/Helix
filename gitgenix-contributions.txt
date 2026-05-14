@@ -48,3 +48,4 @@ Commit Log:
 [2026-02-12] Add recording state feedback
 [2026-05-14] Clean up filler words from transcripts
 [2026-05-14] Handle empty recordings gracefully
+[2026-05-14] Retry failed transcription requests
