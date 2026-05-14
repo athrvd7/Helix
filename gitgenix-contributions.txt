@@ -47,3 +47,4 @@ Commit Log:
 [2026-02-12] Preserve punctuation in dictated text
 [2026-02-12] Add recording state feedback
 [2026-05-14] Clean up filler words from transcripts
+[2026-05-14] Handle empty recordings gracefully
