@@ -52,3 +52,4 @@ Commit Log:
 [2026-05-16] Refine the desktop recording overlay
 [2026-05-16] Improve startup performance for background capture
 [2026-05-16] Add language selection for dictation
+[2026-05-16] Support custom vocabulary for names and terms
