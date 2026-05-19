@@ -65,3 +65,4 @@ Commit Log:
 [2026-05-19] Reduce latency between speech and text
 [2026-05-19] Persist microphone and language settings
 [2026-05-19] Handle focus changes during dictation
+[2026-05-19] Improve capitalization and sentence formatting
