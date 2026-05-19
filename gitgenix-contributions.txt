@@ -61,3 +61,4 @@ Commit Log:
 [2026-05-19] Stabilize longer dictation sessions
 [2026-05-19] Improve transcription in noisy environments
 [2026-05-19] Show actionable transcription error messages
+[2026-05-19] Add recent transcript history
