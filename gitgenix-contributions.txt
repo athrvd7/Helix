@@ -63,3 +63,4 @@ Commit Log:
 [2026-05-19] Show actionable transcription error messages
 [2026-05-19] Add recent transcript history
 [2026-05-19] Reduce latency between speech and text
+[2026-05-19] Persist microphone and language settings
