@@ -74,3 +74,4 @@ Commit Log:
 [2026-05-25] Add a push-to-talk keyboard shortcut
 [2026-05-25] Handle microphone permission errors clearly
 [2026-05-25] Insert transcripts into the active application
+[2026-05-25] Preserve punctuation in dictated text
