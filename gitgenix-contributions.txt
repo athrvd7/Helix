@@ -76,3 +76,4 @@ Commit Log:
 [2026-05-25] Insert transcripts into the active application
 [2026-05-25] Preserve punctuation in dictated text
 [2026-05-25] Add recording state feedback
+[2026-05-25] Clean up filler words from transcripts
