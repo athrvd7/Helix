@@ -70,3 +70,4 @@ Commit Log:
 [2026-05-25] Improve hotkey responsiveness
 [2026-05-25] Initialize the voice-first writing workspace
 [2026-05-25] Add microphone capture for hands-free input
+[2026-05-25] Improve the speech-to-text transcription flow
