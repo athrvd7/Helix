@@ -79,3 +79,4 @@ Commit Log:
 [2026-05-25] Clean up filler words from transcripts
 [2026-05-26] Handle empty recordings gracefully
 [2026-05-26] Retry failed transcription requests
+[2026-05-26] Refine the desktop recording overlay
