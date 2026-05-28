@@ -80,3 +80,4 @@ Commit Log:
 [2026-05-26] Handle empty recordings gracefully
 [2026-05-26] Retry failed transcription requests
 [2026-05-26] Refine the desktop recording overlay
+[2026-05-28] Improve startup performance for background capture
