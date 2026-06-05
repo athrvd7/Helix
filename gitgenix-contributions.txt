@@ -84,3 +84,4 @@ Commit Log:
 [2026-05-28] Add language selection for dictation
 [2026-05-28] Support custom vocabulary for names and terms
 [2026-06-05] Keep recorded audio local by default
+[2026-06-05] Add a clipboard fallback for text insertion
