@@ -90,3 +90,4 @@ Commit Log:
 [2026-06-05] Add accessible labels to recording controls
 [2026-06-05] Stabilize longer dictation sessions
 [2026-06-05] Improve transcription in noisy environments
+[2026-06-05] Show actionable transcription error messages
