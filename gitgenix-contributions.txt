@@ -87,3 +87,4 @@ Commit Log:
 [2026-06-05] Add a clipboard fallback for text insertion
 [2026-06-05] Add shortcuts for editing the latest transcript
 [2026-06-05] Improve first-run voice setup
+[2026-06-05] Add accessible labels to recording controls
